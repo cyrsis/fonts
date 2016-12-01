@@ -1,0 +1,100 @@
+-------------------------------------------------
+Tom Chalky Font EULA (End User License Agreement) 
+-------------------------------------------------
+
+I understand that reading EULAs (End User License Agreements) can be a chore but I have tried my best to make my terms very clear and reasonable to keep both parties happy. Of course if there are any questions left unanswered you can contact me using the information in section E and I will try and clarify anything for you. 
+Also, if you have any suggestions regarding my EULA please again use the information in section E to get in touch. My main priority is to satisfy you to the best of my ability and to make my agreement as ‘real world’ friendly as possible. 
+
+By installing any font software created by or under the name of Tom Chalky, you are indicating that you agree that the font software remains the exclusive property of Tom Chalky and that you have the correct licensing in place to protect the use of the font software under the following terms and conditions.
+
+-------------------
+A - Number of CPU's
+-------------------
+
+A1 - You can install the font(s) on one (1) portable device such as a notebook or laptop computer and on one (1) device that remains at a single location such as a desktop computer. These devices can be connected to any number of physical outputs. The physical output can be an inkjet printer, laser printer, offset press, silk screener, vinyl cutter, die-maker etc.
+
+A2 - If you want to license my fonts for more than what is stated in A1 (one (1) user, one (1) stationary CPU and one (1) transportable CPU), you must upgrade your license to a multiple-user license. A multiple-user license includes the exact same terms as a standard license, but with a higher number of devices and users allowed. To find out how to attain a multiple-user license, refer to section F1.
+
+----------------------------------------------
+B - Standard Permissions and Special Licensing
+----------------------------------------------
+
+B1 - Use with any software: You can use my fonts with any software that supports them. This includes mainstream software such as Microsoft, Adobe, Macromedia or any other software retailer's programs, or software you or your company may have had custom-made.
+
+B3 - Prepress Allowance: You can send my fonts to your printing services, but after the job has been completed please ensure that they remove the fonts from their systems as they will probably end up using them on other jobs, which reduce the value of the fonts we created and you paid for. 
+
+B4 - Embedding Permissions: You can embed my fonts in certain electronic documents. This includes PDF, Flash and Microsoft Office documents (such as Word or PowerPoint), or multimedia files, but if at all possible, please make sure that you do not embed the complete character set. Fonts embedded in electronic documents can usually be extracted and pirated, I obviously would rather that didn’t happen.
+
+B5 - ePub Licensing: The embedding and use of my fonts in commercial electronic publications such as eBooks require a special kind of licensing. For more information regarding ePub Licensing divert your attention to section F2.
+
+B6 – Web Font Licensing: You can use my fonts for simple web-related tasks, like making raster images or navigation elements to display on your web page. If you want to use my fonts as “webfonts”, whereby you include them in your site's CSS code so that they appear live in web site documents, you must obtain a web font license. To obtain a web font license, please refer to section F3.
+
+B7 – Web App Licensing: If you want to make my fonts available as part of a dynamic interface for a server-based program (such as a Flash or PHP/Javascript program), or include them in a web browser-based program, you must obtain a special web application license. This license can be obtained by contacting us, see section F4 for more information regarding the web app license.
+
+B8 – Printing our Fonts: You can use my fonts to print artwork on clothes, cars, mugs, fridge magnets or any other products that you, your company, or your clients are selling.
+
+B9 – Non-Digital 3D Shapes/Products: You can use my fonts to make non-digital 3-dimensional shapes, rubber stamps or scrapbooking alphabets that you can sell.
+
+B10 – Corporate Identity and Branding: You can use my fonts to produce artwork meant to be part of a corporate identity or branding. This includes letterheads, business cards, business forms, banners, film titling, tie-in products, etc. However Logos are excluded from the list. If you intend on using the font for a logo design, please get in touch via our email stated in section E.
+
+B11 – Backups: You can keep one backup copy of any my font you have licensed, but the backup medium you use should be secure and only privately accessible.
+
+B12 – Modification: You can modify my fonts, but only for uses outlined within the condition of this license and as long as the modifications are being done by yourself. Modification also means font format conversion. If you have a Mac and a PC, you can use conversion software to convert the font between platforms. Third parties to this license are not allowed to modify my fonts under any circumstance, unless formally authorized in writing by Tom Chalky.
+
+B13 – Internal Usage: You can install my fonts to be served internally to users at your company, provided that you have purchased the appropriate license for the amount of users who will have access to the font/s. Please also review the Multi-User License section and the pricing structure in section F1. All users must be covered with the license.
+
+B14 – Distribution: You cannot give away copies of my fonts in ways that do not comply with the rest of this agreement. For example: you cannot make any my fonts available for download on the internet, email them to your friends, upload them to public internet file transfer or storing channels. Please respect the value of what we do, so that we keep having an incentive to continue.
+
+B15 – Reselling: You cannot resell my fonts through any medium unless you have written authorisation from Tom Chalky to be a distributor. This also means you cannot modify my fonts then sell the resulting modification.
+
+B16 – Usage not mentioned? If you are wondering about a particular type of usage we didn't include in this agreement, just drop us a line and we will try our hardest to help. See section E for a way get in touch.
+
+----------------------
+C) Support and Updates
+----------------------
+
+C1 – Quality Check: All of my fonts undergo thorough testing before they are available for licensing, but if I did something wrong and the font you licensed doesn't perform properly or up to your expectations, I will replace it with a satisfactory copy. Please make sure you include the order number or have the purchase receipt available when you ask for an exchange.
+
+C2 – Free Lifetime Support: All my fonts come with free lifetime support. However I cannot offer support for fonts that have been modified in any way as I am not familiar with how they were modified and cannot be held responsible for the aftermarket editing process.
+
+C3 – Updates: All of my fonts come with free lifetime version updates. This is made easier if you register an account with me when you purchase your font licenses as your purchase history is stored on your account and is re-downloadable at any time. All available downloads are updated at the source, and updates will be applied to the downloads available on your account. I promise to keep providing free version upgrades for as long as my fonts exists.
+
+-----------------------
+D) Miscellaneous Notes:
+-----------------------
+
+D1 - If you don't agree with some of my license terms, please discuss the issue with myself. I am always open to new ways of providing you with better service. I am a small independent design studio that thrives only by keeping my customers happy so that they come back for more. I believe that fonts with unreasonable restrictions do not ultimately contribute to anyone's satisfaction, so I try my best to keep my licensing adaptable to as many workflows as possible.
+
+D2 - My fonts are made to be used how fonts are normally used. I can guarantee and support their functionality as fonts, but not as anything else. I cannot take responsibility for incidental damages arising from my fonts being used in any application or in a certain way. Also I cannot take responsibility for a user's level of experience in using fonts within certain workflows.
+
+-----------------------
+E – Contact Information
+-----------------------
+
+Email – Tomchalkys@gmail.com 
+
+------------------------------
+F – Special Licensing Pricing:
+------------------------------
+
+F1 – Multi-User License: To obtain a Multi-User License with any of my fonts, simply purchase the same quantity of fonts as you need users by altering the quantity section on my checkout page. 
+For example, If 10 users are going to be using our Bobby Jones Font ($30 with a single user license) you will need to buy Bobby Jones to the Quantity of 10 totalling to $300.
+
+F2 - ePub Licensing Table: 
+
+Below is the ePub License pricing model, please note that multi-user licensing still applies to the number of users, regardless of the number of publications being licensed. To obtain this license, you must contact me directly. Refer to section E.
+
+# of ePubs Price x Base Price:
+1 (x 10)
+2-5 (x 20)
+6-20 (x 35)
+21-50 (x 50)
+Unlimited (x 200)
+
+F3 – Webfont Licensing:
+
+A Webfont license can be purchased directly through the store, simply navigate to your selected font and select ‘Webfont’ in the drop down box, the price will be the same as the Desktop license but will not cover any Desktop usage. If you require both licenses, please purchase both by following the same method and select Desktop + Webfont. Available formats (EOT, WOFF, WOFF2).
+
+F4 – Web App Licensing
+
+Licensing my fonts for web application integration is priced per application, with an option to license for unlimited applications. The price per application is 50x base price. The unlimited application option is 200x base price. Contact me directly to obtain this license. Refer to section E.

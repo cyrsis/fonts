@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Marema Typeface';
+  src: url('Marema Typefaces.eot'); /* IE9 Compat Modes */
+  src: url('Marema Typefaces.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Marema Typefaces.woff') format('woff'), /* Modern Browsers */
+       url('Marema Typefaces.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Marema Typefaces.svg#5d5594379058e51872986e016143b6cd') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
